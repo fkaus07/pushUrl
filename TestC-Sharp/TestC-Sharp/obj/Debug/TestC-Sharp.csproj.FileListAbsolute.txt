@@ -1,0 +1,7 @@
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.csproj.AssemblyReference.cache
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.exe.config
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.exe
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.pdb
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.exe
+C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.pdb
