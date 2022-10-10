@@ -5,3 +5,10 @@ C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.ex
 C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.pdb
 C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.exe
 C:\Users\유재천\source\repos\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.pdb
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.exe.config
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.exe
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\bin\Debug\TestC-Sharp.pdb
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.csproj.AssemblyReference.cache
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.csproj.CoreCompileInputs.cache
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.exe
+D:\gitTest\pushUrl\TestC-Sharp\TestC-Sharp\obj\Debug\TestC-Sharp.pdb

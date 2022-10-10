@@ -10,6 +10,7 @@ using System.Threading.Tasks;
         static void Main()
         {
             Console.WriteLine("Main1");
-        }
+            Console.WriteLine("Main2");
+    }
     }
 
