@@ -13,7 +13,8 @@ using System.Threading.Tasks;
             Console.WriteLine("Main2");
             Console.WriteLine("Main3");
             Console.WriteLine("Main4");
-            Console.WriteLine("Main5"); 
+            Console.WriteLine("Main5");
+            Console.WriteLine("LocalCommit");
     }
     }
 
